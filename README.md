@@ -7,7 +7,7 @@ détecter les feux de circulation et leur emplacement à partir d'images à l'ai
 
 Le résultat est une carte avec des jonctions ayant des feux de circulation. Une liste des feux tricolores identifiés dans un format structuré est également générée.
 
-<img src="/SIG_Project/samples/results/images/boxed-IMG_0085.JPEG" width="410">
+![boxed-IMG_0085](https://user-images.githubusercontent.com/120731881/208746244-0490f636-3508-45ed-9422-820f6a83aff0.JPEG)>
 
 
 

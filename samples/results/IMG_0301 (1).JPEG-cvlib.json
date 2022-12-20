@@ -1,0 +1,127 @@
+{
+    "image": "IMG_0301.JPEG",
+    "boxedImage": "boxed-IMG_0301.JPEG",
+    "labelCount": 10,
+    "trafficLightCount": 3,
+    "trafficLightConfidenceMax": 0.983,
+    "trafficLightConfidenceMean": 0.915,
+    "labels": [
+        "car",
+        "car",
+        "car",
+        "traffic light",
+        "car",
+        "car",
+        "traffic light",
+        "car",
+        "traffic light",
+        "car"
+    ],
+    "response": [
+        {
+            "label": "car",
+            "confidence": 0.9935581088066101,
+            "boundingBox": [
+                879,
+                1000,
+                1207,
+                1206
+            ]
+        },
+        {
+            "label": "car",
+            "confidence": 0.9877772331237793,
+            "boundingBox": [
+                106,
+                1057,
+                660,
+                1276
+            ]
+        },
+        {
+            "label": "car",
+            "confidence": 0.9843073487281799,
+            "boundingBox": [
+                1254,
+                979,
+                1496,
+                1110
+            ]
+        },
+        {
+            "label": "traffic light",
+            "confidence": 0.9826836585998535,
+            "boundingBox": [
+                406,
+                123,
+                587,
+                185
+            ]
+        },
+        {
+            "label": "car",
+            "confidence": 0.9598053693771362,
+            "boundingBox": [
+                624,
+                1004,
+                741,
+                1103
+            ]
+        },
+        {
+            "label": "car",
+            "confidence": 0.9517898559570312,
+            "boundingBox": [
+                761,
+                991,
+                921,
+                1127
+            ]
+        },
+        {
+            "label": "traffic light",
+            "confidence": 0.9372162222862244,
+            "boundingBox": [
+                1196,
+                574,
+                1289,
+                692
+            ]
+        },
+        {
+            "label": "car",
+            "confidence": 0.931348443031311,
+            "boundingBox": [
+                717,
+                1008,
+                780,
+                1090
+            ]
+        },
+        {
+            "label": "traffic light",
+            "confidence": 0.8256534337997437,
+            "boundingBox": [
+                621,
+                98,
+                749,
+                208
+            ]
+        },
+        {
+            "label": "car",
+            "confidence": 0.681279718875885,
+            "boundingBox": [
+                0,
+                966,
+                108,
+                1158
+            ]
+        }
+    ],
+    "lat": 34.730463,
+    "lon": 10.742574,
+    "direction": 1,
+    "positioningError": 1,
+    "timeElapsed": 1.737
+}

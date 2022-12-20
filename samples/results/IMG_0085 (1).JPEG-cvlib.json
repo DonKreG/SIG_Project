@@ -1,0 +1,61 @@
+{
+    "image": "IMG_0085.JPEG",
+    "boxedImage": "boxed-IMG_0085.JPEG",
+    "labelCount": 4,
+    "trafficLightCount": 2,
+    "trafficLightConfidenceMax": 0.747,
+    "trafficLightConfidenceMean": 0.738,
+    "labels": [
+        "car",
+        "car",
+        "traffic light",
+        "traffic light"
+    ],
+    "response": [
+        {
+            "label": "car",
+            "confidence": 0.9961875081062317,
+            "boundingBox": [
+                134,
+                142,
+                257,
+                193
+            ]
+        },
+        {
+            "label": "car",
+            "confidence": 0.9954162836074829,
+            "boundingBox": [
+                16,
+                130,
+                123,
+                170
+            ]
+        },
+        {
+            "label": "traffic light",
+            "confidence": 0.7474237680435181,
+            "boundingBox": [
+                72,
+                70,
+                81,
+                98
+            ]
+        },
+        {
+            "label": "traffic light",
+            "confidence": 0.7284286022186279,
+            "boundingBox": [
+                174,
+                77,
+                182,
+                101
+            ]
+        }
+    ],
+    "lat": 36.858898,
+    "lon": 10.1965,
+    "direction": 1,
+    "positioningError": 1,
+    "timeElapsed": 3.31
+}

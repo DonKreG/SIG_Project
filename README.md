@@ -33,7 +33,7 @@ Les scripts utilisent les bibliothèques de machine learning suivantes :
 Installez les packages Python requis :
 
 ```
-pip3 install -r exigences.txt
+pip3 install -r requirements.txt
 ```
 
 
